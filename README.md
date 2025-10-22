@@ -1,4 +1,4 @@
-# Weather Image Classification — Autoencoder + Classical ML (Model 2 & 3)
+# Weather Image Classification — Autoencoder + Classical ML 
 
 An alternative pipeline for the weather image task that learns **latent features with a convolutional autoencoder (CAE)** and trains **classical classifiers** (Random Forest and XGBoost) on those embeddings. This complements your MobileNetV2 transfer‑learning project with a lighter, interpretable approach.
 
