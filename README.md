@@ -88,7 +88,7 @@ Run all cells to: train the autoencoder → extract embeddings → train RF/XGBo
 │   ├── classification_report_xgb.png
 │   └── confusion_matrix_xgb.png
 ├── notebooks/
-│   └── Group_Project.ipynb
+│   └── weather_image_classification_autoencoder.ipynb
 ├── .gitignore
 ├── LICENSE
 ├── README.md
